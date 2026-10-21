@@ -1,0 +1,8 @@
+# Build outputs and deployment secrets
+node_modules/
+artifacts/
+cache/
+typechain-types/
+coverage/
+.env
+.env.test
